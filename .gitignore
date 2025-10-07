@@ -1,0 +1,76 @@
+# Gradle files
+.gradle/
+build/
+!gradle-wrapper.jar
+.gradle/
+**/build/
+**/out/
+.kotlin/
+
+# Local configuration
+local.properties
+.gradle/
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/tasks.xml
+.idea/vcs.xml
+.idea/shelf/
+
+# Android/IntelliJ
+captures/
+.navigation/
+output.json
+
+# Keystore files (security)
+*.jks
+*.keystore
+
+# Sign-in keys or credentials
+signing.properties
+*.key
+*.pem
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Generated files
+generated/
+*.apk
+*.ap_
+*.aab
+
+# Crashlytics / Firebase
+fabric.properties
+crashlytics-build.properties
+
+# Kotlin specific
+*.kotlin_module
+
+# NDK / CMake
+.cxx/
+obj/
+
+# Misc
+*.class
+*.swp
+*.swo
+*.tmp
+
+# Unit test / coverage
+*.ec
+*.hprof
+
+# Jetpack Compose previews
+*.preview
