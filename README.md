@@ -42,11 +42,11 @@ This is a **Mobile ToDo App** designed to help users manage their daily tasks ef
 ### Screenshots
 ![Get Started](screenshots/get-started.png)
 ![Home](screenshots/home.png)
-![Login](screenshots/Login.png)
+![Login](screenshots/login.png)
 ![Register](screenshots/register.png)
 ![Profile](screenshots/profile.png)
-![Todo Detail](screenshots/todo-detail.png)
-![Todo Status](screenshots/todo-status.png)
+![Todo Detail](screenshots/todo_detail.png)
+![Todo Status](screenshots/todo_status.png)
 
 ### Demo
 Demo video coming soon.
