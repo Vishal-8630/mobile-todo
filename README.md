@@ -49,7 +49,8 @@ This is a **Mobile ToDo App** designed to help users manage their daily tasks ef
 ![Todo Status](screenshots/todo_status.png)
 
 ### Demo
-Demo video coming soon.
+
+[Demo Video](https://drive.google.com/file/d/19EvS4P3e8GG9nl6kin3tGQZM6LhkyBdE/view)
 
 ## Installation
 
