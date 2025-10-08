@@ -50,7 +50,7 @@ This is a **Mobile ToDo App** designed to help users manage their daily tasks ef
 
 ### Demo
 
-[Demo Video](https://drive.google.com/file/d/19EvS4P3e8GG9nl6kin3tGQZM6LhkyBdE/view)
+[Demo Video](https://drive.google.com/file/d/19EvS4P3e8GG9nl6kin3tGQZM6LhkyBdE/view?usp=sharing)
 
 ## Installation
 
